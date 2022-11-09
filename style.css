@@ -1,0 +1,98 @@
+body{
+	margin: 0;
+	font-family: 'Roboto Mono', monospace;
+	text-align: center;
+}
+.top-container{
+	background-color: #ffc600;
+	position: relative;
+	padding-top: 270px;
+	line-height: 1.4;
+}
+.name{
+	margin: 0 auto 0 auto;
+	position: relative;
+	bottom: 40px;
+	font-size: 5rem;
+	font-family: 'Shadows Into Light', cursive;
+}
+.job{
+	margin: 0;
+	position: relative;
+	bottom: 40px;
+	font-size: 2rem;
+	font-family: 'Shadows Into Light', cursive;
+	font-weight: bolder;
+}
+.catangry{
+	width: 10%;
+	position: fixed;
+	top: 50px;
+	left: 100px;
+}
+.catlol{
+	width: 25%;
+	position: absolute;
+	top: 80px;
+	right: 100px;
+}
+.cathello{
+	width: 100%;
+	position: relative;
+	top: 4px;
+}
+h3{
+	color: #ffc600;
+}
+.middle-container{
+	position: relative;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-left: 50px;
+
+}
+h2{
+	margin-top: 50px;
+}
+dl{
+	line-height: 1.6;
+}
+.skill-row{
+	width: 50%;
+	margin: 200px auto 50px auto;
+	text-align: left;
+	line-height: 1.6;
+	display: block;
+}
+.skill-row1{
+	width: 50%;
+	margin: 50px auto 50px auto;
+	text-align: left;
+	line-height: 1.6;
+	display: block;
+}
+.cat-skill{
+	width: 40%;
+	float: left;
+	margin-right: 30px;
+}
+.cat-eat{
+	width: 40%;
+	float: right;
+	margin-left: 30px;
+}
+.bottom-container{
+	position: relative;
+	background-color: #ffc600;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+.fb{
+	width: 2.5%;
+}
+.ins{
+	width: 2.5%;
+}
+.twt{
+	width: 2.5%;
+}
